@@ -4,13 +4,11 @@
 
 ### About Me
 
-I’m passionate about building efficient solutions in embedded systems.
-
 - 🔭 I’m currently working on:  
-  Developing [project or technology] with [technologies or platforms].
+  Developing my own IOS App [Cash Empire] with [Swift and SwiftUi].
 
 - 📫 How to reach me:
-  [Your contact method].
+  [//email].
 
 ---
 

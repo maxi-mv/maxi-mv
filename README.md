@@ -1,6 +1,6 @@
 # 💫 Hi, I´m Maxi!
 ---
-👨‍💻 Software Developer for Embedded Systems!<br><br>About Me<br>🔭 I’m currently working on:<br>Developing my own IOS App [Cash Empire] with [Swift and SwiftUi].<br><br>📫 How to reach me: [//email].<br><br>Some of My Favorite Projects<br>[Project 1 Name] – [Short description].<br>[Project 2 Name] – [Short description].
+👨‍💻 Software Developer for Embedded Systems!<br><br>About Me<br>🔭 I’m currently working on:<br>Developing my own IOS App [Cash Empire] with <span style="color:blue">Swift</span> and <span style="color:blue">SwiftUI</span>. <br><br>📫 How to reach me: [//email].<br><br>Some of My Favorite Projects<br>[Project 1 Name] – [Short description].<br>[Project 2 Name] – [Short description].
 
 
 # 💻 Tech Stack:

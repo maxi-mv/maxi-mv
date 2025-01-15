@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![maxi-mv GitHub stats](https://github-readme-stats.vercel.app/api?username=maxi-mv&theme=purple_icons=true)
+![maxi-mv GitHub stats](https://github-readme-stats.vercel.app/api?username=maxi-mv&theme=blueberry_icons=true)
+

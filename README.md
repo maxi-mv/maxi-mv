@@ -6,10 +6,6 @@ Software Developer for Embedded Systems
 
 I’m passionate about building efficient solutions in embedded systems.
 
----
-
-### Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:  
   Developing [project or technology] with [technologies or platforms].
 

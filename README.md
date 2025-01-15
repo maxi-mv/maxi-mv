@@ -10,10 +10,10 @@ I’m passionate about building efficient solutions in embedded systems.
 
 ### Here are some ideas to get you started:
 
-- 🔭 **I’m currently working on:**  
+- 🔭 I’m currently working on:  
   Developing [project or technology] with [technologies or platforms].
 
-- 📫 **How to reach me:**  
+- 📫 How to reach me:
   [Your contact method].
 
 ---

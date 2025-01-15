@@ -1,6 +1,5 @@
 ## Hi, I´m Maxi 👋
 
-<!--
 **maxi-mv/maxi-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![maxi-mv GitHub stats](https://github-readme-stats.vercel.app/api?username=maxi-mv)](https://github.com/maxi-mv/github-readme-stats)

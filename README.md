@@ -1,6 +1,6 @@
 ## Hi, I’m Maxi 👋
 
-Software Developer for Embedded Systems
+👨‍💻 Software Developer for Embedded Systems
 
 ### About Me
 
